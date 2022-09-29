@@ -6,6 +6,11 @@ API
 
    lumache
 
+Projects
+~~~~~~~~
+
+Projects list
++++++++++++++
 
 .. http:get:: /api/v3/projects/
 
@@ -106,3 +111,5 @@ API
       :Query Parameters:
 
          * **expand** (*string*) -- with ``organization`` and ``teams``.
+
+
