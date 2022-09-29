@@ -17,6 +17,22 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    "multiproject",
+    "sphinx.ext.autosectionlabel",
+    "sphinx.ext.autodoc",
+    "sphinx.ext.intersphinx",
+    "sphinxcontrib.httpdomain",
+    "sphinxcontrib.video",
+    "djangodocs",
+    "doc_extensions",
+    "sphinx_tabs.tabs",
+    "sphinx-prompt",
+    "notfound.extension",
+    "hoverxref.extension",
+    "sphinx_search.extension",
+    "sphinxemoji.sphinxemoji",
+    "sphinx_design",
+    "myst_parser",
 ]
 
 intersphinx_mapping = {
